@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://barcode-scanner-comparaison.netlify.app/",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
